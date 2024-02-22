@@ -12,3 +12,8 @@ index = (index+1)% colors.length
 
 
 })
+
+document.addEventListener('click',()=>{
+
+    document.getElementsByTagName("body")[0].style.backgroundColor = "gold"
+})
