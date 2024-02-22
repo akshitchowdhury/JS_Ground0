@@ -1,6 +1,6 @@
 
 
-const colors = ["red", "green", "yellow"];
+const colors = ["red", "green", "yellow", "#000"];
 
 let index = 0;
 const block = document.getElementsByClassName("container")[0]
